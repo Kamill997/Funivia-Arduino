@@ -11,4 +11,4 @@ Cableway created thanks to the use of the components:
 
 My role, together with my teammates, was to operate both on the hardware and software side
 
-![Cableway](funivia.mp4)
+![Cableway](Funivia.mp4)
