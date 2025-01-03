@@ -11,4 +11,4 @@ The following project concerns a team work for the university subject of Control
 ## Role
 My role, together with my teammates, was to operate both on the hardware and software side.
 
-<img src="funivia.jpg" width="100" height="100"/>
+<img src="funivia.jpg" width="250"/>
